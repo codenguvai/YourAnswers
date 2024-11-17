@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="answers"><item>DON’T BET ON IT.\nĐừng đánh cược vào điều này.</item>
+        <item>THE ANSWER MAY COME TO YOU IN ANOTHER LANGUAGE\nCó thể câu trả lời sẽ đến với bạn trong dạng ngôn ngữ khác.</item>
+        <item>INVESTIGATE AND THEN ENJOY IT\nĐầu tư và sau đó hãy tận hưởng nó.</item>
+        <item>BETTER TO WAIT\nTốt hơn hết là hãy chờ đợi.</item>
+        <item>YOU COULD FIND YOURSELF UNABLE TO COMPROMISE\nBạn có lẽ đã thấy rằng bản thân không thể tự làm hại mình.</item>
+        <item>DO IT EARLY\nThực hiện nó sớm đi.</item>
+        <item>FOLLOW THE ADVICE OF EXPERTS\nHãy nghe theo chỉ dẫn của chuyên gia.</item>
+        <item>KEEP IT TO YOURSELF\nHãy giữ nó cho riêng mình.</item>
+        <item>FOCUS ON YOUR HOME LIFE\nHãy tập trung vào cuộc sống gia đình bạn.</item>
+        <item>IT SEEMS ASSURED\nNó có vẻ như khá chắc chắn.</item>
+        <item>ADOPT AN ADVENTUROUS ATTITUDE\nHãy kế thừa thái độ ham thích phiêu lưu.</item>
+        <item>STARTLING EVENTS MAY OCCUR AS A RESULT\nNhững sự kiện ban đầu có thể xảy ra như là một hậu quả.</item>
+        <item>YOUR ACTIONS WILL IMPROVE THINGS\nHành động của bạn sẽ có thể cải thiện điều đó.</item>
+        <item>YOU WILL NEED TO ACCOMMODATE\nBạn sẽ cần phải điều chỉnh.</item>
+        <item>DEFINITELY\nRõ ràng là như vậy.</item>
+        <item>ABSOLUTELY NOT\nHoàn toàn không phải vậy.</item>
+        <item>IT WILL BRING GOOD LUCK\nMay mắn sẽ tới.</item>
+        <item>AVOID THE FIRST SOLUTION\nHãy tránh xa giải pháp thứ nhất.</item>
+        <item>IT WILL AFFECT HOW OTHERS SEE YOU\nNó sẽ ảnh hưởng cách người khác nhìn nhận bạn.</item>
+        <item>UNFAVORABLE AT THIS TIME\nThật không phù hợp ở thời điểm này.</item>
+        <item>THERE IS A SUBSTANTIAL LINK TO ANOTHER SITUATION\nCó một liên kết đáng kể đến một tình huống khác.</item>
+        <item>IF YOU DO AS YOU’RE TOLD\nMiễn là bạn làm đúng như bạn nói.</item>
+        <item>YOU WILL FIND OUT EVERYTHING YOU’LL NEED TO KNOW\nBạn sẽ tình thấy mọi thứ bạn cần biết.</item>
+        <item>IF IT’S DONE WELL; IF NOT, DON’T DO IT AT ALL\nMiễn là nó được làm tốt; nếu không, đừng làm gì cả.</item>
+        <item>WATCH AND SEE WHAT HAPPENS\nXem và hiểu về điều sắp xảy ra.</item>
+        <item>UPGRADE ANY WAY YOU CAN\nNâng cấp bằng bất kỳ cách nào mà bạn có thể.</item>
+        <item>BE PATIENT\nHãy kiên nhẫn.</item>
+        <item>DON’T ASK FOR ANY MORE AT THIS TIME\nĐừng hỏi gì thêm lúc này.</item>
+        <item>DOUBT IT\nNghi ngờ điều đó.</item>
+        <item>YOU’LL GET THE FINAL WORD\nBạn đã có câu trả lời.</item>
+        <item>YOU’LL BE HAPPY YOU DID\nBạn sẽ hạnh phúc như bạn đã làm.</item>
+        <item>GET IT IN WRITING\nHãy viết nó ra.</item>
+        <item>THE BEST SOLUTION MAY NOT BE THE OBVIOUS ONE\nCách tốt nhất đôi khi không phải điều chắc chắn.</item>
+        <item>DON’T GET CAUGHT UP IN YOUR EMOTIONS\nĐừng giam cầm trong cảm xúc của bản thân.</item>
+        <item>APPROACH CAUTIOUSLY\nTiến tới một cách thận trọng.</item>
+        <item>DON’T HESITATE\nĐừng chần chừ nữa.</item>
+        <item>PROVIDED YOU SAY “THANK YOU”\nBạn hãy nói “Cảm ơn”.</item>
+        <item>MOVE ON\nBước tiếp.</item>
+        <item>THAT’S OUT OF YOUR CONTROL\nĐiều đó nằm ngoài tầm kiểm soát của bạn.</item>
+        <item>THERE IS NO GUARANTEE\nKhông có sự bảo đảm.</item>
+        <item>ENJOY THE EXPERIENCE\nTận hưởng trải nghiệm này.</item>
+        <item>THIS IS A GOOD TIME TO MAKE A NEW PLAN\nĐây là thời điểm tốt để thực hiện kế hoạch mới.</item>
+        <item>REMAIN FLEXIBLE\nDuy trì sự linh hoạt.</item>
+        <item>THE CIRCUMSTANCES WILL CHANGE VERY QUICKLY\nCác tình huống sẽ thay đổi rất nhanh.</item>
+        <item>PROCEED AT A MORE RELAXED PACE\nTiếp tục với một nhịp độ thư giãn.</item>
+        <item>SHIFT YOUR FOCUS\nHãy chuyển hướng tập trung của bạn.</item>
+        <item>PAY ATTENTION TO THE DETAILS\nHãy chú ý đến các chi tiết.</item>
+        <item>SPEAK UP ABOUT IT\nHãy nói về nó.</item>
+        <item>REPRIORITIZE WHAT IS IMPORTANT\nHãy sắp xếp lại những điều quan trọng.</item>
+        <item>YOU’LL HAVE TO COMPROMISE\nBạn sẽ phải thỏa hiệp.</item>
+        <item>SEEK OUT MORE OPTIONS\nTìm kiếm nhiều lựa chọn.</item>
+        <item>FOLLOW SOMEONE ELSE’S LEAD\nĐi theo sự dẫn dắt của người khác.</item>
+        <item>IT IS SOMETHING YOU WON’T FORGET\nĐó là điều bạn sẽ không quên.</item>
+        <item>TAKE A CHANCE\nNắm lấy cơ hội.</item>
+        <item>DON’T WAIT\nĐừng chờ đợi.</item>
+        <item>ACCEPT A CHANCE TO YOUR ROUTINE\nChấp nhận cơ hội cho hành trình của bạn.</item>
+        <item>EXPECT TO SETTLE\nMong đợi để định cư.</item>
+        <item>MAKE A LIST OF WHY\nLàm một danh sách lí do TẠI SAO.</item>
+        <item>MAKE A LIST OF WHY NOT\nLàm một danh sách lí do TẠI SAO KHÔNG.</item>
+        <item>YOU’LL NEED TO TAKE THE INITIATIVE\nBạn sẽ cần phải dẫn đầu.</item>
+        <item>IT IS SIGNIFICANT\nĐó là điều hiển nhiên.</item>
+        <item>YOU’LL NEED MORE INFORMATION\nBạn sẽ cần thêm thông tin.</item>
+        <item>FOLLOW THROUGH ON YOUR OBLIGATIONS\nTuân theo nghĩa vụ của bạn.</item>
+        <item>DEAL WITH IT LATER\nGiải quyết nó sau.</item>
+        <item>IT WILL CREATE A STIR\nNó sẽ tạo ra một sự khuấy động.</item>
+        <item>RECONSIDER YOUR APPROACH\nXem xét lại sự tiếp cận của bạn.</item>
+        <item>BET ON IT\nĐánh cược vào nó.</item>
+        <item>YOU ARE TOO CLOSE TO SEE\nBạn đang ở quá gần để nhận ra.</item>
+        <item>IT WOULD BE BETTER TO FOCUS ON YOUR WORK\nTốt hơn hết là tập trung vào công việc của bạn.</item>
+        <item>A SUBSTANTIAL EFFORT WILL BE REQUIRED\nMột nỗ lực đáng kể sẽ được yêu cầu.</item>
+        <item>IT WILL BE A PLEASURE\nĐó sẽ là một điều thú vị.</item>
+        <item>ALLOW YOURSELF TO REST FIRST\nTrước tiên hãy cho bản thân nghỉ ngơi.</item>
+        <item>BE MORE GENEROUS\nHãy hào phóng hơn.</item>
+        <item>THE SITUATION IS UNCLEAR\nTình huống không rõ ràng.</item>
+        <item>THE CHANCE WILL NOT COME AGAIN SOON\nCơ hội sẽ không trở lại ngay.</item>
+        <item>TRUST YOUR ORIGINAL THOUGHT\nTin tưởng niềm tin ban đầu của bạn.</item>
+        <item>IT WOULD BE INADVISABLE\nĐó thật là không khôn ngoan.</item>
+        <item>FINISH SOMETHING ELSE FIRST\nHãy kết thúc điều khác trước.</item>
+        <item>YOU MAY HAVE OPPOSITION\nBạn có thể có đối thủ.</item>
+        <item>NO MATTER WHAT\nKhông thành vấn đề.</item>
+        <item>DON’T OVERDO IT\nĐừng cường điệu nói lên.</item>
+        <item>BE PRACTICAL\nHãy thực hành.</item>
+        <item>TAKE A CHANCE\nNắm bắt cơ hội.</item>
+        <item>IT IS CERTAIN\nChắc chắn là vậy.</item>
+        <item>GET A CLEARER VIEW\nCó một góc nhìn rõ ràng hơn.</item>
+        <item>IT IS UNCERTAIN\nKhông chắc chắn.</item>
+        <item>NOW YOU CAN\nBạn có thể ngay bây giờ.</item>
+        <item>SAVE YOUR ENERGY\nTiết kiệm năng lượng của bạn.</item>
+        <item>YES, BUT DON’T FORCE IT\nĐúng, nhưng đừng áp đặt nó.</item>
+        <item>THE OUTCOME WILL BE POSITIVE\nKết quả sẽ được xác thực.</item>
+        <item>WAIT FOR A BETTER OFFER\nChờ đợi một sự lựa chọn tốt hơn.</item>
+        <item>YOU MAY HAVE TO DROP OTHER THINGS\nBạn có lẽ sẽ phải buông bỏ những thứ khác.</item>
+        <item>IT’LL COST YOU\nNó sẽ khiến bạn trả giá.</item>
+        <item>IT IS SURE TO MAKE THINGS INTERESTING\nHãy chắc rằng tạo ra điều thú vị.</item>
+        <item>PREPARE FOR THE UNEXPECTED\nChuẩn bị cho những điều bất ngờ.</item>
+        <item>TAKE CHARGE\nHãy chịu trách nhiệm.</item>
+        <item>IT MAY BE DIFFICULT BUT YOU WILL FIND VALUE IN IT\nĐó có thể là điều khó khăn nhưng bạn sẽ tìm ra giá trị trong đó.</item>
+        <item>RELATED ISSUES MAY SURFACE\nVấn đề liên quan có thể chỉ là bề nổi.</item>
+        <item>WHATEVER YOU DO THE RESULTS WILL BE LASTING\nBất kể bạn làm gì thì kết quả sẽ đến sau đó.</item>
+        <item>ASSISTANCE WOULD MAKE YOUR PROGRESS A SUCCESS\nSự trợ giúp sẽ tạo ra thành công trong quá trình tiến bộ của bạn.</item>
+        <item>TELL SOMEONE WHAT IT MEANS TO YOU\nNói với họ điều đó có ý nghĩa với bạn.</item>
+        <item>COLLABORATION WILL BE THE KEY\nSự cộng tác sẽ là chìa khóa.</item>
+        <item>KEEP AN OPEN MIND\nHãy giữ một tư duy cởi mở.</item>
+        <item>YOU ARE SURE TO HAVE SUPPORT\nHãy chắc chắn rằng bạn có sự ủng hộ.</item>
+        <item>IT IS NOT SIGNIFICANT\nĐiều đó là vô nghĩa.</item>
+        <item>SEEK OUT MORE OPTIONS\nHãy tìm nhiều sự lựa chọn hơn.</item>
+        <item>DON’T BE CONCERNED\nĐừng dính líu đến nữa.</item>
+        <item>IT CANNOT FALL\nĐiều đó không thể sụp đổ.</item>
+        <item>IT IS WORTH THE TROUBLE\nRắc rối là điều xứng đáng.</item>
+        <item>THERE WILL BE OBSTACLES TO OVERCOME\nSẽ có những trở ngại để vượt qua.</item>
+        <item>YOU MUST ACT NOW\nBạn phải hành động ngay bây giờ.</item>
+        <item>A STRONG COMMITMENT WILL ACHIEVE GOOD RESULTS\nMột sự cam kết mãnh liệt sẽ đạt được những kết quả tốt đẹp.</item>
+        <item>FOLLOW THROUGH WITH YOUR GOOD INTENTIONS\nHãy đi theo định hướng tích cực của bạn.</item>
+        <item>DON’T IGNORE THE OBVIOUS\nĐừng phớt lờ những điều hiển nhiên.</item>
+        <item>YOU WILL NOT BE DISAPPOINTED\nBạn sẽ không phải thất vọng.</item>
+        <item>IT’S NOT WORTH A STRUGGLE\nMột cuộc xung đột là không đáng.</item>
+        <item>GENTLE PERSISTENCE WILL PAY OFF\nSự nhẫn nại dịu dàng sẽ được đền đáp.</item>
+        <item>DON’T FORGET TO HAVE FUN\nĐừng quên rằng phải vui vẻ.</item>
+        <item>IT MAY ALREADY BE A DONE DEAL\nCó lẽ đây hoàn toàn là một thỏa thuận.</item>
+        <item>IF YOU DON’T RESIST\nNếu bạn không kháng cự.</item>
+        <item>RESPECT THE RULES\nTôn trọng các quy tắc.</item>
+        <item>DON’T DOUBT IT\nĐừng nghi ngờ điều đó.</item>
+        <item>WATCH YOUR STEP AS YOU GO\nNhìn từng đi của bạn khi tiến tới.</item>
+        <item>TRY A MORE UNLIKELY SOLUTION\nThử một giải pháp khác lạ hơn.</item>
+        <item>TAKE MORE TIME TO DECIDE\nDành nhiều thời gian để đưa ra quyết định.</item>
+        <item>DON’T BE PRESSURED INTO ACTING TOO QUICKLY\nĐừng bị áp lực với việc phải hành động nhanh chóng.</item>
+        <item>NOT IF YOU’RE ALONE\nKhông, nếu bạn đang một mình.</item>
+        <item>YOU’LL NEED TO CONSIDER OTHER WAYS\nBạn sẽ cần phải cân nhắc những cách khác.</item>
+        <item>LISTEN MORE CAREFULLY; THEN YOU WILL KNOW\nLắng nghe cẩn thận hơn; và bạn sẽ biết.</item>
+        <item>OTHERS WILL DEPEND ON YOUR CHOICES\nNhững thứ khác sẽ phụ thuộc sự lựa chọn của bạn.</item>
+        <item>REALIZE THAT TOO MANY CHOICES IS AS DIFFICULT AS TOO FEW\nHãy nhận ra rằng có quá nhiều lựa chọn cũng khó khăn như việc có quá ít.</item>
+        <item>THAT WOULD BE A WASTE OF MONEY\nĐiều đó sẽ là sự lãng phí tiền của.</item>
+        <item>PRESS FOR CLOSURE\nKìm nén vì sự kết thúc.</item>
+        <item>GIVE IT ALL YOU’VE GOT\nCho đi tất cả những gì bạn có.</item>
+        <item>YES\nĐúng vậy.</item>
+        <item>LET IT GO\nBuông bỏ đi.</item>
+        <item>MISHAPS ARE HIGHLY PROBABLE\nRủi ro rất có thể xảy đến.</item>
+        <item>YOU DON’T REALLY CARE\nBạn không thực sự quan tâm.</item>
+        <item>LEAVE BEHIND OLD SOLUTIONS\nĐể lại đằng sau những giải pháp lỗi thời.</item>
+        <item>A YEAR FROM NOW IT WON’T MATTER\nMột năm kể từ bây giờ không phải là gì cả.</item>
+        <item>THE ANSWER IS IN YOUR BACKYARD\nCâu trả lời ở sân sau nhà bạn.</item>
+        <item>LAUGH ABOUT IT\nBật cười về điều đó.</item>
+        <item>IT COULD BE EXTRAORDINARY\nNó có thể rất lạ thường.</item>
+        <item>TRUST YOUR INTUITION\nTin tưởng vào trực giác của bạn.</item>
+        <item>IT’S GONNA BE GREAT\nNó sẽ rất tuyệt.</item>
+        <item>YOU’LL HAVE TO MAKE IT UP AS YOU GO\nBạn sẽ phải gây dựng nó khi bạn ra đi.</item>
+        <item>SETTING PRIORITIES WILL BE A NECESSARY PART OF THE PROCESS\nTạo dựng ưu thế sẽ là một điều cần thiết cho quá trình.</item>
+        <item>UNQUESTIONABLY\nKhông đáng ngờ.</item>
+        <item>ACT AS THOUGH IT IS ALREADY REAL\nCư xử như thể thực tế đã là vậy.</item>
+        <item>OF COURSE\nHiển nhiên.</item>
+        <item>USE YOUR IMAGINATION\nSử dụng trí tưởng tượng của bạn.</item>
+        <item>YOU’LL REGRET IT\nBạn sẽ phải hối hận.</item>
+        <item>COUNT TO 10; ASK AGAIN\nĐếm đến 10; rồi hỏi lại.</item>
+        <item>YOU KNOW BETTER NOW THAN EVER BEFORE\nBạn biết là ngay bây giờ tốt hơn là trước đây.</item>
+        <item>DON’T WASTE YOUR TIME\nĐừng lãng phí thời gian.</item>
+        <item>CONSIDER IT AN OPPORTUNITY\nCân nhắc nó như là một cơ hội.</item>
+        <item>TO ENSURE THE BEST DECISION, BE CALM\nĐảm bảo sự lựa chọn tốt nhất, hãy bình tĩnh.</item>
+        <item>WAIT\nHãy chờ đợi.</item>
+        <item>DON’T BET ON IT\nĐừng đánh cược vào nó.</item>
+        <item>THE ANSWER MAY COME TO YOU IN ANOTHER LANGUAGE\nCâu trả lời có lẽ đến với bạn ở một ngôn ngữ khác.</item>
+        <item>INVESTIGATE AND THEN ENJOY IT\nĐầu tư và sau đó là tận hưởng nó.</item>
+        <item>BETTER TO WAIT\nTốt hơn hết hãy chờ đợi.</item>
+        <item>YOU COULD FIND YOURSELF UNABLE TO COMPROMISE\nBạn có thể nhận ra bản thân không thể thỏa hiệp.</item>
+        <item>DO IT EARLY\nThực hiện nó sớm.</item>
+        <item>FOLLOW THE ADVICE OF EXPERTS\nNghe theo lời khuyên của các chuyên gia.</item>
+        <item>KEEP IT TO YOURSELF\nGiữ nó cho riêng mình bạn.</item>
+        <item>FOCUS ON YOUR HOME LIFE\nTập trung vào cuộc sống gia đình bạn.</item>
+        <item>IT SEEMS ASSURED\nNó dường như đã được đảm bảo.</item>
+        <item>ADOPT AN ADVENTUROUS ATTITUDE\nThích ứng với một thái độ dám mạo hiểm.</item>
+        <item>STARTLING EVENTS MAY OCCUR AS A RESULT\nNhững sự kiện ban đầu có lẽ xảy ra như là một kết quả.</item>
+        <item>YOUR ACTIONS WILL IMPROVE THINGS\nHành động của bạn sẽ cải thiện mọi thứ.</item>
+        <item>YOU WILL NEED TO ACCOMMODATE\nBạn sẽ cần phải thỏa hiệp.</item>
+        <item>DEFINITELY\nHãy dứt khoát.</item>
+        <item>ABSOLUTELY NOT\nDĩ nhiên là không.</item>
+        <item>IT WILL BRING GOOD LUCK\nĐiều đó sẽ mang đến may mắn.</item>
+        <item>AVOID THE FIRST SOLUTION\nBỏ qua giải pháp thứ nhất.</item>
+        <item>IT WILL AFFECT HOW OTHERS SEE YOU\nĐiều đó sẽ ảnh hưởng đến cách người khác nhìn nhận bạn.</item>
+        <item>UNFAVORABLE AT THIS TIME\nKhông được ưa thích tại thời điểm này.</item>
+        <item>THERE IS A SUBSTANTIAL LINK TO ANOTHER SITUATION\nCó một liên kết lớn lao với những tình huống khác.</item>
+        <item>IF YOU DO AS YOU’RE TOLD\nNếu bạn làm như điều bạn được bảo.</item>
+        <item>YOU WILL FIND OUT EVERYTHING YOU’LL NEED TO KNOW\nBạn sẽ tìm được mọi thứ bạn sẽ cần phải biết.</item>
+        <item>IF IT’S DONE WELL; IF NOT, DON’T DO IT AT ALL\nNếu nó được hoàn thành tốt; Nếu không thì đừng làm gì cả.</item>
+        <item>WATCH AND SEE WHAT HAPPENS\nNhìn và cảm nhận những điều xảy ra.</item>
+        <item>UPGRADE ANY WAY YOU CAN\nNâng cấp bằng mọi cách bạn có thể.</item>
+        <item>BE PATIENT\nHãy kiên nhẫn.</item>
+        <item>DON’T ASK FOR ANY MORE AT THIS TIME\nĐừng đòi hỏi gì thêm lúc này.</item>
+        <item>DOUBT IT\nNghi ngờ điều đó.</item>
+        <item>YOU’LL GET THE FINAL WORD\nBạn sẽ có được lời nói cuối cùng.</item>
+        <item>YOU’LL BE HAPPY YOU DID\nBạn sẽ hạnh phúc như bạn đã từng.</item>
+        <item>GET IT IN WRITING\nHãy viết chúng ra.</item>
+        <item>THE BEST SOLUTION MAY NOT BE THE OBVIOUS ONE\nGiải pháp tốt nhất có thể không phải là điều hiển nhiên.</item>
+        <item>DON’T GET CAUGHT UP IN YOUR EMOTIONS\nĐừng để bị giam cầm trong cảm xúc của bản thân.</item>
+        <item>APPROACH CAUTIOUSLY\nTiếp cận một cách thận trọng.</item>
+        <item>DON’T HESITATE\nĐừng do dự.</item>
+        <item>PROVIDED YOU SAY “THANK YOU”\nMiễn là bạn nói “Cảm ơn”.</item>
+        <item>MOVE ON\nHãy bước tiếp.</item>
+        <item>THAT’S OUT OF YOUR CONTROL\nĐiều đó nằm ngoài tầm kiểm soát của bạn.</item>
+        <item>THERE IS NO GUARANTEE\nKhông có sự bảo vệ.</item>
+        <item>ENJOY THE EXPERIENCE\nTận hưởng trải nghiệm.</item>
+        <item>THIS IS A GOOD TIME TO MAKE A NEW PLAN\nĐây là thời gian tốt để thực hiện một dự án mới.</item>
+        <item>REMAIN FLEXIBLE\nDuy trì sự linh hoạt.</item>
+        <item>THE CIRCUMSTANCES WILL CHANGE VERY QUICKLY\nCác tình huống sẽ thay đổi rất nhanh.</item>
+        <item>PROCEED AT A MORE RELAXED PACE\nTiếp tục với một nhịp độ thư giãn.</item>
+        <item>SHIFT YOUR FOCUS\nChuyển hướng sự chú ý của bạn.</item>
+        <item>PAY ATTENTION TO THE DETAILS\nHãy chú ý đến các chi tiết.</item>
+        <item>SPEAK UP ABOUT IT\nHãy lên tiếng về nó.</item>
+        <item>REPRIORITIZE WHAT IS IMPORTANT\nSắp xếp lại xem điều gì mới quan trọng.</item>
+        <item>YOU’LL HAVE TO COMPROMISE\nBạn sẽ phải thỏa hiệp.</item>
+        <item>SEEK OUT MORE OPTIONS\nTìm kiếm nhiều lựa chọn hơn.</item>
+        <item>FOLLOW SOMEONE ELSE’S LEAD\nĐi theo sự dẫn dắt của một người khác.</item>
+        <item>IT IS SOMETHING YOU WON’T FORGET\nĐó là những điều bạn sẽ không quên.</item>
+        <item>TAKE A CHANCE\nNắm lấy cơ hội.</item>
+        <item>DON’T WAIT\nĐừng chờ đợi.</item>
+        <item>ACCEPT A CHANCE TO YOUR ROUTINE\nChấp nhận một cơ hội cho lộ trình của bạn.</item>
+        <item>EXPECT TO SETTLE\nMong đợi để hòa giải ổn thỏa.</item>
+        <item>MAKE A LIST OF WHY\nLập một danh sách tại sao.</item>
+        <item>MAKE A LIST OF WHY NOT\nLập một danh sách tại sao không.</item>
+        <item>YOU’LL NEED TO TAKE THE INITIATIVE\nBạn sẽ cần phải dẫn đầu.</item>
+        <item>IT IS SIGNIFICANT\nĐiều đó đầy ý nghĩa.</item>
+        <item>YOU’LL NEED MORE INFORMATION\nBạn sẽ cần nhiều thông tin hơn.</item>
+        <item>FOLLOW THROUGH ON YOUR OBLIGATIONS\nTuân theo nghĩa vụ của bạn.</item>
+        <item>DEAL WITH IT LATER\nGiải quyết vấn đề đó sau.</item>
+        <item>IT WILL CREATE A STIR\nĐiều đó sẽ tạo ra một sự khuấy động.</item>
+        <item>RECONSIDER YOUR APPROACH\nXem xét lại cách bạn tiếp cận.</item>
+        <item>BET ON IT\nĐánh cược vào điều đó.</item>
+        <item>YOU ARE TOO CLOSE TO SEE\nBạn ở quá gần để có thể nhìn rõ.</item>
+        <item>IT WOULD BE BETTER TO FOCUS ON YOUR WORK\nTốt hơn hết là tập trung vào công việc của bạn.</item>
+        <item>A SUBSTANTIAL EFFORT WILL BE REQUIRED\nMột nỗ lực đáng kể sẽ được yêu cầu.</item>
+        <item>IT WILL BE A PLEASURE\nĐiều đó sẽ là một niềm vui.</item>
+        <item>ALLOW YOURSELF TO REST FIRST\nCho phép bản thân được nghỉ ngơi trước.</item>
+        <item>BE MORE GENEROUS\nHãy hào phóng hơn.</item>
+        <item>THE SITUATION IS UNCLEAR\nTình huống không rõ ràng.</item>
+        <item>REMOVE YOUR OWN OBSTACLES\nLoại bỏ những trở ngại của riêng bạn.</item>
+        <item>THE CHANCE WILL NOT COME AGAIN SOON\nCơ hội sẽ không tiếp tục đến sớm.</item>
+        <item>TRUST YOUR ORIGINAL THOUGHT\nTin vào suy nghĩ ban đầu của bạn.</item>
+        <item>IT WOULD BE INADVISABLE\nĐiều đó có thể không khôn ngoan.</item>
+        <item>FINISH SOMETHING ELSE FIRST\nHoàn thành việc khác trước.</item>
+        <item>YOU MAY HAVE OPPOSITION\nBạn có thể có đối thủ.</item>
+        <item>SETTLE IT SOON\nGiải quyết điều đó sớm.</item>
+        <item>NO MATTER WHAT\nBất cứ điều gì.</item>
+        <item>DON’T OVERDO IT\nĐừng lạm dụng nó.</item>
+        <item>BE PRACTICAL\nHãy thực tế.</item>
+        <item>TAKE A CHANCE\nNắm bắt cơ hội.</item>
+        <item>IT IS CERTAIN\nĐiều đó là rõ ràng.</item>
+        <item>GET A CLEARER VIEW\nHãy có góc nhìn rõ ràng hơn.</item>
+        <item>IT IS UNCERTAIN\nĐiều đó là không chắc chắn.</item>
+        <item>NOW YOU CAN\nTừ bây giờ bạn có thể.</item>
+        <item>SAVE YOUR ENERGY\nTiết kiệm năng lượng của bạn.</item>
+        <item>YES, BUT DON’T FORCE IT\nĐúng, nhưng đừng ép buộc nó.</item>
+        <item>THE OUTCOME WILL BE POSITIVE\nKết quả đưa ra sẽ tích cực.</item>
+        <item>WAIT FOR A BETTER OFFER\nChờ đợi một đề nghị tốt hơn.</item>
+        <item>YOU MAY HAVE TO DROP OTHER THINGS\nBạn có vẻ phải bỏ đi những thứ khác.</item>
+        <item>IT’LL COST YOU\nNó sẽ khiến bạn trả giá.</item>
+        <item>IT IS SURE TO MAKE THINGS INTERESTING\nChắc chắn là phải làm thú vị công việc.</item>
+        <item>TAKE CHARGE\nHãy gánh vác.</item>
+        <item>IT MAY BE DIFFICULT BUT YOU WILL FIND VALUE IN IT\nCó thể sẽ khó khăn nhưng bạn sẽ tìm thấy giá trị bên trong nó.</item>
+        <item>RELATED ISSUES MAY SURFACE\nCác vấn đề liên quan chỉ là bề nổi.</item>
+        <item>WHATEVER YOU DO THE RESULTS WILL BE LASTING\nBất kể bạn làm gì thì hệ quả vẫn sẽ kéo dài.</item>
+        <item>ASSISTANCE WOULD MAKE YOUR PROGRESS A SUCCESS\nNhững sự trợ giúp sẽ làm tiến trình của bạn thành công.</item>
+        <item>TELL SOMEONE WHAT IT MEANS TO YOU\nKể với họ về ý nghĩa của điều đó với bạn.</item>
+        <item>COLLABORATION WILL BE THE KEY\nHợp tác sẽ là chìa khóa.</item>
+        <item>KEEP AN OPEN MIND\nGiữ một tâm hồn cởi mở.</item>
+        <item>YOU ARE SURE TO HAVE SUPPORT\nBạn chắc chắn có sự ủng hộ.</item>
+        <item>IT IS NOT SIGNIFICANT\nNó không quan trọng.</item>
+        <item>SEEK OUT MORE OPTIONS\nTìm kiếm nhiều chọn lựa hơn.</item>
+        <item>DON’T BE CONCERNED\nĐừng để bị dính líu.</item>
+        <item>IT CANNOT FALL\nNó không thể sụp đổ.</item>
+        <item>IT IS WORTH THE TROUBLE\nGặp rắc rối là đáng đời.</item>
+        <item>THERE WILL BE OBSTACLES TO OVERCOME\nSẽ có chướng ngại vật cần vượt qua.</item>
+        <item>YOU MUST ACT NOW\nBạn phải hành động ngay.</item>
+        <item>A STRONG COMMITMENT WILL ACHIEVE GOOD RESULTS\nMột lời cam kết uy tín sẽ đạt được những thành quả tốt.</item>
+        <item>FOLLOW THROUGH WITH YOUR GOOD INTENTIONS\nHãy đi theo định hướng tốt đẹp của bạn.</item>
+        <item>DON’T IGNORE THE OBVIOUS\nĐừng phớt lờ những điều hiển nhiên.</item>
+        <item>YOU WILL NOT BE DISAPPOINTED\nBạn sẽ không bị thất vọng.</item>
+        <item>IT’S NOT WORTH A STRUGGLE\nKhông đáng cho một cuộc xung đột.</item>
+        <item>GENTLE PERSISTENCE WILL PAY OFF\nSự kiên nhẫn dịu dàng sẽ được đền đáp.</item>
+        <item>DON’T FORGET TO HAVE FUN\nĐừng quên là phải vui vẻ.</item>
+        <item>IT MAY ALREADY BE A DONE DEAL\nCó lẽ đã có một thỏa thuận hoàn chỉnh.</item>
+        <item>IF YOU DON’T RESIST\nNếu bạn không chống lại.</item>
+        <item>RESPECT THE RULES\nTôn trọng nguyên tắc.</item>
+        <item>DON’T DOUBT IT\nĐừng nghi ngờ.</item>
+        <item>WATCH YOUR STEP AS YOU GO\nHãy nhìn vào bước chân của bạn khi đi.</item>
+        <item>TRY A MORE UNLIKELY SOLUTION\nThử một giải pháp khác biệt hơn.</item>
+        <item>TAKE MORE TIME TO DECIDE\nDành nhiều thời gian hơn để quyết định.</item>
+        <item>DON’T BE PRESSURED INTO ACTING TOO QUICKLY\nĐừng bị áp lực phải hành động quá nhanh.</item>
+        <item>NOT IF YOU’RE ALONE\nKhông nếu bạn đang một mình.</item>
+        <item>YOU’LL NEED TO CONSIDER OTHER WAYS\nBạn sẽ cần phải nghĩ cách khác.</item>
+        <item>LISTEN MORE CAREFULLY; THEN YOU WILL KNOW\nLắng nghe cẩn thận hơn; và rồi bạn sẽ biết.</item>
+        <item>OTHERS WILL DEPEND ON YOUR CHOICES\nNhững thứ khác sẽ phụ thuộc vào sự lựa chọn của bạn.</item>
+        <item>REALIZE THAT TOO MANY CHOICES IS AS DIFFICULT AS TOO FEW\nNhận ra rằng có quá nhiều hay quá ít sự lựa chọn đều khó khăn.</item>
+        <item>THAT WOULD BE A WASTE OF MONEY\nĐiều đó sẽ là một sự lãng phí tiền bạc.</item>
+        <item>PRESS FOR CLOSURE\nThúc dục sự kết thúc.</item>
+        <item>GIVE IT ALL YOU’VE GOT\nCho đi những gì bạn có.</item>
+        <item>YES\nĐúng vậy.</item>
+        <item>LET IT GO\nHãy buông bỏ.</item>
+        <item>MISHAPS ARE HIGHLY PROBABLE\nRủi ro khả năng cao sẽ xảy ra.</item>
+        <item>YOU DON’T REALLY CARE\nBạn không thực sự quan tâm.</item>
+        <item>LEAVE BEHIND OLD SOLUTIONS\nBỏ lại sau những giải pháp cũ.</item>
+        <item>A YEAR FROM NOW IT WON’T MATTER\nMột năm kể từ bây giờ không thành vấn đề.</item>
+        <item>THE ANSWER IS IN YOUR BACKYARD\nCâu trả lời đã ở sân sau nhà bạn.</item>
+        <item>LAUGH ABOUT IT\nHãy cười lớn.</item>
+        <item>IT COULD BE EXTRAORDINARY\nĐó có thể thật phi thường.</item>
+        <item>TRUST YOUR INTUITION\nTin vào trực giác của bạn.</item>
+        <item>IT’S GONNA BE GREAT\nMọi thứ sẽ thật tuyệt.</item>
+        <item>YOU’LL HAVE TO MAKE IT UP AS YOU GO\nBạn sẽ phải tạo dựng nó ngay khi bạn ra đi.</item>
+        <item>SETTING PRIORITIES WILL BE A NECESSARY PART OF THE PROCESS\nTạo ra ưu thế sẽ là một phần cần thiết của tiến trình.</item>
+        <item>UNQUESTIONABLY\nKhông đáng nghi ngờ.</item>
+        <item>ACT AS THOUGH IT IS ALREADY REAL\nHành động như thể đó là sự thật.</item>
+        <item>OF COURSE\nDĩ nhiên.</item>
+        <item>USE YOUR IMAGINATION\nTận dụng óc tưởng tượng của bạn.</item>
+        <item>YOU’LL REGRET IT\nBạn sẽ phải hối hận.</item>
+        <item>COUNT TO 10; ASK AGAIN\nĐếm đến 10 rồi hỏi lại.</item>
+        <item>YOU KNOW BETTER NOW THAN EVER BEFORE\nBạn biết rằng bây giờ luôn hơn trước kia.</item>
+        <item>DON’T WASTE YOUR TIME\nĐừng lãng phí thời gian.</item>
+        <item>CONSIDER IT AN OPPORTUNITY\nCân nhắc nó là một cơ hội.</item>
+        <item>TO ENSURE THE BEST DECISION, BE CALM\nĐể đảm bảo về quyết định tốt nhất, hãy bình tĩnh.</item>
+        <item>WAIT\nChờ đợi.</item>
+    </string-array>
+</resources>
